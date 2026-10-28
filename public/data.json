@@ -1,0 +1,102 @@
+[
+  {
+    "playerName": "Virat Kohli",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "rating": 9.5,
+    "price": 950,
+    "img": "https://example.com/images/virat-kohli.jpg"
+  },
+  {
+    "playerName": "Rohit Sharma",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm off-break",
+    "rating": 9.2,
+    "price": 850,
+    "img": "https://example.com/images/rohit-sharma.jpg"
+  },
+  {
+    "playerName": "Jasprit Bumrah",
+    "playerCountry": "India",
+    "playerType": "Bowler",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "rating": 9.8,
+    "price": 980,
+    "img": "https://example.com/images/jasprit-bumrah.jpg"
+  },
+  {
+    "playerName": "Hardik Pandya",
+    "playerCountry": "India",
+    "playerType": "All-rounder",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium-fast",
+    "rating": 8.9,
+    "price": 800,
+    "img": "https://example.com/images/hardik-pandya.jpg"
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerCountry": "Afghanistan",
+    "playerType": "Bowler",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm leg-break",
+    "rating": 9.4,
+    "price": 900,
+    "img": "https://example.com/images/rashid-khan.jpg"
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerCountry": "Pakistan",
+    "playerType": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm off-break",
+    "rating": 9.3,
+    "price": 880,
+    "img": "https://example.com/images/babar-azam.jpg"
+  },
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-rounder",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "rating": 8.8,
+    "price": 750,
+    "img": "https://example.com/images/shakib-al-hasan.jpg"
+  },
+  {
+    "playerName": "Trent Boult",
+    "playerCountry": "New Zealand",
+    "playerType": "Bowler",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast-medium",
+    "rating": 9.1,
+    "price": 820,
+    "img": "https://example.com/images/trent-boult.jpg"
+  },
+  {
+    "playerName": "Jos Buttler",
+    "playerCountry": "England",
+    "playerType": "Wicketkeeper-Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Does not regularly bowl",
+    "rating": 9.2,
+    "price": 870,
+    "img": "https://example.com/images/jos-buttler.jpg"
+  },
+  {
+    "playerName": "Glenn Maxwell",
+    "playerCountry": "Australia",
+    "playerType": "All-rounder",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm off-break",
+    "rating": 8.9,
+    "price": 780,
+    "img": "https://example.com/images/glenn-maxwell.jpg"
+  }
+]
